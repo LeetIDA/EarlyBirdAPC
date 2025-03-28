@@ -1,13 +1,13 @@
 ```
 
-         _____           _        ______ _         _   _____      _           _
-        |  ___|         | |       | ___ (_)       | | |_   _|    (_)         | |
-        | |__  __ _ _ __| |_   _  | |_/ /_ _ __ __| |   | | _ __  _  ___  ___| |_ ___  _ __
-        |  __|/ _` | '__| | | | | | ___ \ | '__/ _` |   | || '_ \| |/ _ \/ __| __/ _ \| '__|
-        | |__| (_| | |  | | |_| | | |_/ / | | | (_| |  _| || | | | |  __/ (__| || (_) | |
-        \____/\__,_|_|  |_|\__, | \____/|_|_|  \__,_|  \___/_| |_| |\___|\___|\__\___/|_|
-                            __/ |                               _/ |
-                           |___/                               |__/
+             _____           _        ______ _         _   _____      _           _
+            |  ___|         | |       | ___ (_)       | | |_   _|    (_)         | |
+            | |__  __ _ _ __| |_   _  | |_/ /_ _ __ __| |   | | _ __  _  ___  ___| |_ ___  _ __
+            |  __|/ _` | '__| | | | | | ___ \ | '__/ _` |   | || '_ \| |/ _ \/ __| __/ _ \| '__|
+            | |__| (_| | |  | | |_| | | |_/ / | | | (_| |  _| || | | | |  __/ (__| || (_) | |
+            \____/\__,_|_|  |_|\__, | \____/|_|_|  \__,_|  \___/_| |_| |\___|\___|\__\___/|_|
+                                __/ |                               _/ |
+                               |___/                               |__/
 
 
                                 Early Bird APC Injector (x86 / x64)
@@ -15,9 +15,8 @@
 ```
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=cpp" alt="C++">
+    <img src="https://skillicons.dev/icons?i=c" alt="C">
     <img src="https://skillicons.dev/icons?i=windows" alt="Windows">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=LeetIDA.EarlyBirdAPC" alt="visitor badge"/>
 </p>
 
 ## :open_book: Project Overview :
@@ -67,3 +66,7 @@ When this occurs, the payload is injected into the target process to be executed
 - `hThread` - Pointer to a HANDLE that will receive the newly created process's thread.
 
 > **⚠ Warning:** This project is for educational purposes only. Misuse of this code for malicious purposes is strictly prohibited and may violate laws and regulations.
+
+<p align="center">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=LeetIDA.EarlyBirdAPC" alt="visitor badge"/>
+</p>
